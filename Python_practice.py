@@ -6,3 +6,6 @@ print(4.16-3/2+7-1)
 print(5.3**3%5)
 print(6.5+9*3/2-4)
 counties = ["Arapahoe", "Denver", "Jefferson"]
+if counties[1] == 'Denver':
+     print(counties[1])
+     
