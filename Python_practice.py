@@ -8,4 +8,8 @@ print(6.5+9*3/2-4)
 counties = ["Arapahoe", "Denver", "Jefferson"]
 if counties[1] == 'Denver':
      print(counties[1])
+
+for i in range(10):
+     print(i)
+     
      
