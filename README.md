@@ -1,8 +1,8 @@
- Election Analysis
+ # Election Analysis
 ## Overview of Election Audit
 
 ### This project contributes to provide with additional information to complete the report of a congressional election audit results, by using Python as a programming language. In this sense, the initial code was elaborated more to get the new outputs requested by the Commission.    
-# The Commission expects to have the voter turnout for each county, the percentage of votes from each county out of the total count and the county with the highest turnout. 
+### The Commission expects to have the voter turnout for each county, the percentage of votes from each county out of the total count and the county with the highest turnout. 
 
 ---
 ## Election-Audit Results
