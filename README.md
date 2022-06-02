@@ -16,17 +16,21 @@ Based on the analysis of the data. The results of the election in question were 
 - The winner of the election is confirmed to be **Diana DeGette** with 73.8% of the total votes *(272,892')* 
 - The other contendant candidates were Charles Casper Stockman who had the second place in votes count with 85,213 votes (23%), followed by Raymon Anthony Doane, who only got 3.1% of the total votes. 
 
-![Outcomes_Based_on_Launch_Date](https://github.com/Connectime4ever/kickstarter-analysis/blob/main/resources/Theater%20Outcomes%20Based%20on%20Launch%20Date.png)
+![textfile_ElectionsResults](https://github.com/Connectime4ever/Election_Analysis/blob/main/Resources/textfile_ElectionsResults.png)
 
 
 ## Election-Audit Summary
-The script developed for this congressional election audit could be easily repurpose for the next election in this precint and even for other precincts.  Some of the main reasons of the flexibility of this code and modifications that could be done are:
+The script developed for this congressional election audit report could be easily repurpose for the next election in this precint and even for other precincts.  Some of the main reasons are:
+- This script has the capability of incorporating any number of cadidates and counties as it not hard coded, so it is practical and flexible.
+- The wording for the messages is easily editable so that can be changed in the future with any other wording that the commision would like to use. so it can be tailormade.  
+- Another modifications could be adding a date of the election audit results report. 
+- This code can easily accept some modifications. For example if the Commission would like to know how many voters the winning candidate got from each county by using the ballot id. (For this, additional data would be needed from the Commission to relate the id with the counties/precints)
 
 
 
 Please find below some images with the code used for this project as reference. 
 
-![Code1]https://github.com/Connectime4ever/Election_Analysis/blob/main/Resources/Code1.png
-![Code2]https://github.com/Connectime4ever/Election_Analysis/blob/main/Resources/Code2.png
-![Code3]https://github.com/Connectime4ever/Election_Analysis/blob/main/Resources/Code3.png
+![Code1](https://github.com/Connectime4ever/Election_Analysis/blob/main/Resources/Code1.png)
+![Code2](https://github.com/Connectime4ever/Election_Analysis/blob/main/Resources/Code2.png)
+![Code3](https://github.com/Connectime4ever/Election_Analysis/blob/main/Resources/Code3.png)
 
